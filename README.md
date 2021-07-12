@@ -1,5 +1,6 @@
 # My-API-Template
-The most popular framework to build Restful APIs in Node.js is **Express**
+The most popular framework to build Restful APIs in Node.js is **Express** :steam_locomotive:
+
 ```sh
 # Updating npm
 sudo npm install -g npm
@@ -24,7 +25,7 @@ From there, we need a file to write our code in
 touch index.js
 ```
 
-On index.js
+On *index.js*
 ```sh
 # Declaring a variable for app that represents the actual API we're building
 const app = require('express')();
